@@ -22,7 +22,7 @@ flake8==3.8.3             # via -r test_requirements.in (line 3)
 flask==1.1.2              # via -r test_requirements.in (line 4)
 future==0.18.2            # via -r requirements.in (line 11)
 hjson==3.0.1              # via -r requirements.in (line 4)
-idna==2.9                 # via requests
+idna==3.7                 # via requests
 itsdangerous==1.1.0       # via flask
 jinja2==2.11.2            # via flask
 jmespath==0.10.0          # via -r requirements.in (line 5), boto3, botocore
