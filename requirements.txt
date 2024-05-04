@@ -28,7 +28,7 @@ s3transfer==0.3.3         # via boto3
 six==1.15.0               # via -r requirements.in (line 14), cfn-flip, pip-tools, python-dateutil
 text-unidecode==1.3       # via python-slugify
 toml==0.10.1              # via -r requirements.in (line 15)
-tqdm==4.46.1              # via -r requirements.in (line 16)
+tqdm==4.66.3              # via -r requirements.in (line 16)
 troposphere==2.6.1        # via -r requirements.in (line 17)
 urllib3==1.25.9           # via botocore, requests
 werkzeug==0.16.1          # via -r requirements.in (line 19)
