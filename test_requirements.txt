@@ -40,7 +40,7 @@ python-dateutil==2.8.1    # via -r requirements.in (line 8), botocore
 python-slugify==4.0.0     # via -r requirements.in (line 9)
 pytz==2020.1              # via django
 pyyaml==5.3.1             # via -r requirements.in (line 10), cfn-flip, kappa
-requests==2.23.0          # via -r requirements.in (line 13), coveralls
+requests==2.32.0          # via -r requirements.in (line 13), coveralls
 s3transfer==0.3.3         # via boto3
 six==1.15.0               # via -r requirements.in (line 14), cfn-flip, pip-tools, python-dateutil
 sqlparse==0.3.1           # via django
