@@ -14,7 +14,7 @@ chardet==3.0.4            # via requests
 click==7.1.2              # via cfn-flip, flask, kappa, pip-tools
 coverage==5.1             # via coveralls
 coveralls==2.0.0          # via -r test_requirements.in (line 1)
-django==3.0.7             # via -r test_requirements.in (line 2)
+django==4.2.20             # via -r test_requirements.in (line 2)
 docopt==0.6.2             # via coveralls
 docutils==0.15.2          # via botocore
 durationpy==0.5           # via -r requirements.in (line 3)
@@ -24,7 +24,7 @@ future==0.18.2            # via -r requirements.in (line 11)
 hjson==3.0.1              # via -r requirements.in (line 4)
 idna==2.9                 # via requests
 itsdangerous==1.1.0       # via flask
-jinja2==2.11.2            # via flask
+jinja2==3.1.6            # via flask
 jmespath==0.10.0          # via -r requirements.in (line 5), boto3, botocore
 kappa==0.6.0              # via -r requirements.in (line 6)
 markupsafe==1.1.1         # via jinja2
