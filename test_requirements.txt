@@ -14,7 +14,7 @@ chardet==3.0.4            # via requests
 click==7.1.2              # via cfn-flip, flask, kappa, pip-tools
 coverage==5.1             # via coveralls
 coveralls==2.0.0          # via -r test_requirements.in (line 1)
-django==3.0.7             # via -r test_requirements.in (line 2)
+django==4.2.22             # via -r test_requirements.in (line 2)
 docopt==0.6.2             # via coveralls
 docutils==0.15.2          # via botocore
 durationpy==0.5           # via -r requirements.in (line 3)
@@ -40,7 +40,7 @@ python-dateutil==2.8.1    # via -r requirements.in (line 8), botocore
 python-slugify==4.0.0     # via -r requirements.in (line 9)
 pytz==2020.1              # via django
 pyyaml==5.3.1             # via -r requirements.in (line 10), cfn-flip, kappa
-requests==2.23.0          # via -r requirements.in (line 13), coveralls
+requests==2.32.4          # via -r requirements.in (line 13), coveralls
 s3transfer==0.3.3         # via boto3
 six==1.15.0               # via -r requirements.in (line 14), cfn-flip, pip-tools, python-dateutil
 sqlparse==0.3.1           # via django
