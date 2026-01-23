@@ -32,7 +32,7 @@ tqdm==4.46.1              # via -r requirements.in (line 16)
 troposphere==2.6.1        # via -r requirements.in (line 17)
 urllib3==1.25.9           # via botocore, requests
 werkzeug==0.16.1          # via -r requirements.in (line 19)
-wheel==0.34.2             # via -r requirements.in (line 20)
+wheel==0.46.2             # via -r requirements.in (line 20)
 wsgi-request-logger==0.4.6  # via -r requirements.in (line 21)
 
 # The following packages are considered to be unsafe in a requirements file:
